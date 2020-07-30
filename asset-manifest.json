@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Verbose/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Verbose/static/js/main.70c7b5d6.chunk.js",
+    "main.js.map": "/Verbose/static/js/main.70c7b5d6.chunk.js.map",
+    "runtime-main.js": "/Verbose/static/js/runtime-main.e31cd6a9.js",
+    "runtime-main.js.map": "/Verbose/static/js/runtime-main.e31cd6a9.js.map",
+    "static/js/2.ca39f29d.chunk.js": "/Verbose/static/js/2.ca39f29d.chunk.js",
+    "static/js/2.ca39f29d.chunk.js.map": "/Verbose/static/js/2.ca39f29d.chunk.js.map",
+    "index.html": "/Verbose/index.html",
+    "precache-manifest.d2ce2af59974f69bf3ab85d7eb3d0995.js": "/Verbose/precache-manifest.d2ce2af59974f69bf3ab85d7eb3d0995.js",
+    "service-worker.js": "/Verbose/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Verbose/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ca39f29d.chunk.js.LICENSE.txt": "/Verbose/static/js/2.ca39f29d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Verbose/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e31cd6a9.js",
+    "static/js/2.ca39f29d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.70c7b5d6.chunk.js"
+  ]
+}
